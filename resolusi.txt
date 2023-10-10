@@ -5,3 +5,4 @@ Resolusi ke depannya :
 - Konsisten belajar full stack developer
 - Mendapatkan gaji dua digit di perusahaan
 - Menjadi developer tetap di perusahaan yang diinginkan
+- Mempelajari Frontend Dev
